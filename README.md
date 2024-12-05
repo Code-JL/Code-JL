@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-JL
 - 👀 I’m interested in any and all programming.
-- 🌱 I’m currently learning more about what I can do with javascript.
+- 🌱 I’m currently relearning the syntax of C++, and using it to [create](https://github.com/Code-JL/Inventory-Manager)
 - 💞️ I’m willing to collaborate on anything
 - 📫 How to reach me: via my email, JosephL@tuta.com
 
