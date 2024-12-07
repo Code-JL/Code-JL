@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Code-JL
 - 👀 I’m interested in any and all programming.
 - 🌱 I’m currently relearning the syntax of C++, and using it to [create](https://github.com/Code-JL/Inventory-Manager)
+- I just learned about C++'s Input Buffering, and how it can cause unexpected errors.
 - 💞️ I’m willing to collaborate on anything
 - 📫 How to reach me: via my email, JosephL@tuta.com
 
