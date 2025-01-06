@@ -1,6 +1,12 @@
 <div align="center">
   <h1>💻 Software Developer</h1>
   <p>Building cross-platform solutions with a focus on practical innovation</p>
+  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 </div>
 
 ## 🔧 Technical Expertise
@@ -43,6 +49,10 @@ Python-based data extraction and analysis tool
 - Expanding WxWidgets expertise through GUI development
 - Learning Kotlin for Android application development
 - Enhancing existing projects with new features and improvements
+
+## 📊 GitHub Activity
+
+[![Code-JL's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Code-JL&theme=react-dark)](https://github.com/Code-JL)
 
 ## 📈 GitHub Stats
 <div align="center">
